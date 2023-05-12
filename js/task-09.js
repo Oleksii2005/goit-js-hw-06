@@ -15,3 +15,4 @@ function onColorChange() {
   bodyEl.style.backgroundColor = randomColor;
   spanEl.textContent = randomColor;
 }
+// 123
